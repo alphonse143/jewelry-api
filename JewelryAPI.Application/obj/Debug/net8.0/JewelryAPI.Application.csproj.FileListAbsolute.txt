@@ -13,3 +13,4 @@ D:\JewelryShop\JewelryAPI\JewelryAPI.Application\obj\Debug\net8.0\JewelryAPI.App
 D:\JewelryShop\JewelryAPI\JewelryAPI.Application\obj\Debug\net8.0\refint\JewelryAPI.Application.dll
 D:\JewelryShop\JewelryAPI\JewelryAPI.Application\obj\Debug\net8.0\JewelryAPI.Application.pdb
 D:\JewelryShop\JewelryAPI\JewelryAPI.Application\obj\Debug\net8.0\ref\JewelryAPI.Application.dll
+D:\JewelryShop\JewelryAPI\JewelryAPI.Application\obj\Debug\net8.0\JewelryAPI.Application.sourcelink.json

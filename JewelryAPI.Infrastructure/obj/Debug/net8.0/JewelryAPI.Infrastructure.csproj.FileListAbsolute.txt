@@ -15,3 +15,4 @@ D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\obj\Debug\net8.0\JewelryAPI.
 D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\obj\Debug\net8.0\refint\JewelryAPI.Infrastructure.dll
 D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\obj\Debug\net8.0\JewelryAPI.Infrastructure.pdb
 D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\obj\Debug\net8.0\ref\JewelryAPI.Infrastructure.dll
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\obj\Debug\net8.0\JewelryAPI.Infrastructure.sourcelink.json

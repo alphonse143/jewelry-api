@@ -123,3 +123,4 @@ D:\JewelryShop\JewelryAPI\JewelryAPI.Web\bin\Debug\net8.0\Bogus.dll
 D:\JewelryShop\JewelryAPI\JewelryAPI.Web\bin\Debug\net8.0\Scrutor.dll
 D:\JewelryShop\JewelryAPI\JewelryAPI.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
 D:\JewelryShop\JewelryAPI\JewelryAPI.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\JewelryShop\JewelryAPI\JewelryAPI.Web\obj\Debug\net8.0\JewelryAPI.Web.sourcelink.json

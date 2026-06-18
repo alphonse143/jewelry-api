@@ -9,3 +9,4 @@ D:\JewelryShop\JewelryAPI\JewelryAPI.Core\obj\Debug\net8.0\JewelryAPI.Core.dll
 D:\JewelryShop\JewelryAPI\JewelryAPI.Core\obj\Debug\net8.0\refint\JewelryAPI.Core.dll
 D:\JewelryShop\JewelryAPI\JewelryAPI.Core\obj\Debug\net8.0\JewelryAPI.Core.pdb
 D:\JewelryShop\JewelryAPI\JewelryAPI.Core\obj\Debug\net8.0\ref\JewelryAPI.Core.dll
+D:\JewelryShop\JewelryAPI\JewelryAPI.Core\obj\Debug\net8.0\JewelryAPI.Core.sourcelink.json
