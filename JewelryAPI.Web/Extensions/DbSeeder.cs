@@ -1,6 +1,8 @@
 using Bogus;
 using JewelryAPI.Core.Entities;
 using JewelryAPI.Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 
 namespace JewelryAPI.Web.Extensions;
 
@@ -10,8 +12,16 @@ public static class DbSeeder
     {
         using var scope = serviceProvider.CreateScope();
         var context = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+        var logger = scope.ServiceProvider.GetRequiredService<ILoggerFactory>().CreateLogger("DbSeeder");
+        
+        try
+        {
+            if (context.Database.IsRelational())
+            {
+                await context.Database.MigrateAsync();
+            }
 
-        if (!context.Users.Any())
+            if (!await context.Users.AnyAsync())
         {
             var adminPasswordHash = BCrypt.Net.BCrypt.HashPassword("admin123");
             context.Users.Add(new User
@@ -23,7 +33,7 @@ public static class DbSeeder
             await context.SaveChangesAsync();
         }
 
-        if (!context.Customers.Any())
+            if (!await context.Customers.AnyAsync())
         {
             var customerFaker = new Faker<Customer>()
                 .RuleFor(c => c.CustomerName, f => f.Person.FullName)
@@ -46,6 +56,11 @@ public static class DbSeeder
             var purchases = purchaseFaker.Generate(120);
             context.Purchases.AddRange(purchases);
             await context.SaveChangesAsync();
+        }
+        catch (Exception ex)
+        {
+            logger.LogError(ex, "An error occurred while migrating or seeding the database.");
+            // Do not throw if you want the app to start even if seed/migration fails
         }
     }
 }
