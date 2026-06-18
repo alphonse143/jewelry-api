@@ -73,15 +73,16 @@ using (var scope = app.Services.CreateScope())
     await JewelryAPI.Web.Extensions.DbSeeder.SeedAsync(scope.ServiceProvider);
 }
 
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+// Enable Swagger in all environments (including Render Production)
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseCors("AllowAll");
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
+
+// Add a simple root endpoint to prevent 404 errors when accessing the base URL
+app.MapGet("/", () => "Jewelry API is running successfully");
 
 app.Run();
