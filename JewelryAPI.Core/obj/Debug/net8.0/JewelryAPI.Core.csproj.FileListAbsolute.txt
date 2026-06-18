@@ -1,0 +1,11 @@
+D:\JewelryShop\JewelryAPI\JewelryAPI.Core\bin\Debug\net8.0\JewelryAPI.Core.deps.json
+D:\JewelryShop\JewelryAPI\JewelryAPI.Core\bin\Debug\net8.0\JewelryAPI.Core.dll
+D:\JewelryShop\JewelryAPI\JewelryAPI.Core\bin\Debug\net8.0\JewelryAPI.Core.pdb
+D:\JewelryShop\JewelryAPI\JewelryAPI.Core\obj\Debug\net8.0\JewelryAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\JewelryShop\JewelryAPI\JewelryAPI.Core\obj\Debug\net8.0\JewelryAPI.Core.AssemblyInfoInputs.cache
+D:\JewelryShop\JewelryAPI\JewelryAPI.Core\obj\Debug\net8.0\JewelryAPI.Core.AssemblyInfo.cs
+D:\JewelryShop\JewelryAPI\JewelryAPI.Core\obj\Debug\net8.0\JewelryAPI.Core.csproj.CoreCompileInputs.cache
+D:\JewelryShop\JewelryAPI\JewelryAPI.Core\obj\Debug\net8.0\JewelryAPI.Core.dll
+D:\JewelryShop\JewelryAPI\JewelryAPI.Core\obj\Debug\net8.0\refint\JewelryAPI.Core.dll
+D:\JewelryShop\JewelryAPI\JewelryAPI.Core\obj\Debug\net8.0\JewelryAPI.Core.pdb
+D:\JewelryShop\JewelryAPI\JewelryAPI.Core\obj\Debug\net8.0\ref\JewelryAPI.Core.dll

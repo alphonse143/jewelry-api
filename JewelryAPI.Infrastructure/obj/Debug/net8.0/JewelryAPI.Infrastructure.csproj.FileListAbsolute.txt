@@ -1,0 +1,17 @@
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\bin\Debug\net8.0\JewelryAPI.Infrastructure.deps.json
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\bin\Debug\net8.0\JewelryAPI.Infrastructure.dll
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\bin\Debug\net8.0\JewelryAPI.Infrastructure.pdb
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\bin\Debug\net8.0\JewelryAPI.Application.dll
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\bin\Debug\net8.0\JewelryAPI.Core.dll
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\bin\Debug\net8.0\JewelryAPI.Application.pdb
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\bin\Debug\net8.0\JewelryAPI.Core.pdb
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\obj\Debug\net8.0\JewelryAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\obj\Debug\net8.0\JewelryAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\obj\Debug\net8.0\JewelryAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\obj\Debug\net8.0\JewelryAPI.Infrastructure.AssemblyInfo.cs
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\obj\Debug\net8.0\JewelryAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\obj\Debug\net8.0\JewelryAPI.Infrastructure.csproj.CopyComplete
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\obj\Debug\net8.0\JewelryAPI.Infrastructure.dll
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\obj\Debug\net8.0\refint\JewelryAPI.Infrastructure.dll
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\obj\Debug\net8.0\JewelryAPI.Infrastructure.pdb
+D:\JewelryShop\JewelryAPI\JewelryAPI.Infrastructure\obj\Debug\net8.0\ref\JewelryAPI.Infrastructure.dll
